@@ -1,0 +1,13 @@
+/* 
+  Localizable.strings
+  国际化
+
+  Created by 张建飞 on 2018/1/12.
+  Copyright © 2018年 JeffinZhang. All rights reserved.
+*/
+"NextbtnTitle" ="Next";
+"contentLabString" = "When you are old and grey and full of sleep, \nAnd nodding by the fire，take down this book, \nAnd slowly read,and dream of the soft look \nYour eyes had once,and of their shadows deep; \nHow many loved your moments of glad grace, \nAnd loved your beauty with love false or true, \nBut one man loved the pilgrim Soul in you \nAnd loved the sorrows of your changing face";
+
+
+///Users/jeffinzhang/Desktop/单元测试/国际化/国际化/en.lproj/Localizable.strings:0: error: read failed: The data couldn’t be read because it isn’t in the correct format.
+

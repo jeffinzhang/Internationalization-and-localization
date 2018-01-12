@@ -1,0 +1,10 @@
+/* 
+  JeffinControllerLocalizable.strings
+  国际化
+
+  Created by 张建飞 on 2018/1/12.
+  Copyright © 2018年 JeffinZhang. All rights reserved.
+*/
+
+"backbtnTitle" = "Back";
+"poetryLabString" = "You say that you love rain,\nbut you open your umbrella when it rains...\nYou say that you love the sun,\nbut you find a shadow spot when the sun shines...\nYou say that you love the wind,\nbut you close your windows when wind blows...\nThis is why I am afraid;\nYou say that you love me too...";

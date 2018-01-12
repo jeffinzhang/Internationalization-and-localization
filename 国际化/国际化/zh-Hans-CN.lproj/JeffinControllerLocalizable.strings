@@ -1,0 +1,11 @@
+/* 
+  JeffinControllerLocalizable.strings
+  国际化
+
+  Created by 张建飞 on 2018/1/12.
+  Copyright © 2018年 JeffinZhang. All rights reserved.
+*/
+
+"backbtnTitle" = "返回";
+"poetryLabString" = "江南三月雨微茫，罗伞轻撑细细香。\n日送微醺如梦寐，身依浓翠趁荫凉。\n忽闻风籁传朱阁，轻蹙蛾眉锁碧窗。\n一片相思君莫解，锦池只恐散鸳鸯。";
+
